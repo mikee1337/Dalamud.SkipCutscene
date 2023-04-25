@@ -7,7 +7,7 @@
     "Tags": [ "utility" ],
     "InternalName": "SkipCutscene",
     "AssemblyVersion": "1.2.2.1",
-    "RepoUrl": "https://github.com/a08381/Dalamud.SkipCutscene",
+    "RepoUrl": "https://github.com/mikee1337/Dalamud.SkipCutscene",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IsHide": "False",
